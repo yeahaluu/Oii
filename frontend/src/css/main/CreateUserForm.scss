@@ -1,0 +1,49 @@
+.info-flex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.info-flex__second{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.input-info {
+  line-height: 40px;
+  min-height: 60px;
+  padding: 20px 10px 20px 10px;
+  margin-bottom: 10px;
+  .name-field{
+    width: 100px;
+    margin: 7px 20px 0 20px;
+  }
+  .location-field{
+    width: 300px;
+    margin: 0 10px 15px 20px;
+  }
+  .search-btn{
+    vertical-align: middle;
+    color: white;
+  }
+}
+
+.select-text{
+  color: #41A30D;
+  margin-left: 20px;
+}
+
+.plus-btn{
+  float: right;
+}
+
+.age-selector{
+  width: 150px;
+  margin: 20px 150px 0 20px;
+}
+
+.gender-selector{
+  display: flex;
+  margin-left: 25px;
+}
