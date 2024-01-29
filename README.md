@@ -1,8 +1,7 @@
 ### 특화프로젝트 : Oii! 오이갈까?
 
-![image](/uploads/5d42b109122a4a5020057d5655099ecd/image.png)
+![](https://file.notion.so/f/f/70432813-970f-461a-886b-335cecb30744/ecd171de-d9f4-48f7-8fc1-05da12cb568c/image-20211220223102380.png?id=5b0b2725-080b-4f51-89f2-d069a3f36011&table=block&spaceId=70432813-970f-461a-886b-335cecb30744&expirationTimestamp=1706601600000&signature=WyUXk0-7eRcR9FeUqCP1yF6JdPzpbdKzLV6vCW9K5oA&downloadName=image-20211220223102380.png)
 
-서비스 URL: http://j5a306.p.ssafy.io/
 <br>
 
 빅데이터를 활용한 중간 지점 지하철역 기반 맛집 찾기 플랫폼
