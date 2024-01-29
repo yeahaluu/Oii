@@ -1,4 +1,4 @@
-### 특화프로젝트 : Oii! 오이갈까?
+# Oii! 오이갈까?
 
 ![](https://file.notion.so/f/f/70432813-970f-461a-886b-335cecb30744/ecd171de-d9f4-48f7-8fc1-05da12cb568c/image-20211220223102380.png?id=5b0b2725-080b-4f51-89f2-d069a3f36011&table=block&spaceId=70432813-970f-461a-886b-335cecb30744&expirationTimestamp=1706601600000&signature=WyUXk0-7eRcR9FeUqCP1yF6JdPzpbdKzLV6vCW9K5oA&downloadName=image-20211220223102380.png)
 
@@ -18,7 +18,6 @@
 - [주요기술스택](##주요기술스택)
 - [개발환경](##개발환경)
 - [배포 및 빌드](##배포및빌드)
-- [⭐ Oii 둘러보기 ⭐](Oii.md)
 
 <br>
 
